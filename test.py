@@ -1,5 +1,4 @@
-This is a new file.
-The purpose of this file is for learning git hub.
-I hope to use this file to create a branch
-and update to github
+'''This is a new file.'''
+print('Hello {0}'.format('World'))
+print('Test', 123)
 
